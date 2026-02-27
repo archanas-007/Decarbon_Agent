@@ -1,3 +1,5 @@
+![Decarbon Agent](img/decarbon-agent.png)
+
 # 🧠 Decarbon AI Master Brain
 
 A modular, agent-oriented decarbonization AI system for real-time energy management and optimization.
